@@ -1,0 +1,6 @@
+time cost for Loader:
+0.1627955436706543s
+time cost for KNN:
+103.81646084785461s
+time cost for MLR:
+3567.3623645305634s
